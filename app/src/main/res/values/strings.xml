@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="true_text">O</string>
+    <string name="false_text">X</string>
+    <string name="correct_answer">정답입니다</string>
+    <string name="wrong_answer">오답입니다</string>
+    <string name="question_1">감자는 뿌리가 아니고 줄기다.</string>  //True
+    <string name="question_2">뽀뽀뽀 노래에서 뽀는 총 24번 나온다.</string>  //True
+    <string name="question_3">하마는 말의 일종이다. </string> //False
+    <string name="question_4">2 + 2 * 3 의 답은 12이다. </string>   //False
+    <string name="question_5">명지전문대 최고의 과는 소프트웨어콘텐츠학과이다. </string>  // True
+    <string name="question_6">남극과 북극 중 북극이 더 춥다. </string>  //False - 8
+    <string name="question_7">The last king of the josun dynasty is 고종 </string>  //False
+    <string name="question_8">고대 원시인들의 가장 큰 적은 공룡이었다. </string>   //False
+    <string name="question_9">지하철 1칸에는 출입문이 모두 6개이다.(양 끝 문 제외) </string>  //False
+    <string name="question_10">이 퀴즈가 마지막 퀴즈이다.</string>  //False
+    <string name="question_11">명지전문대의 개교일자는 1974년 3월이다. </string>  //True
+    <string name="scoreIndex">맞힌 퀴즈의 갯수는</string>
+    <string name="scoreIndex1"> 개 입니다.</string>
+    <string name="previous_text">previous</string>
+    <string name="next_text">next_text</string>
+</resources>
